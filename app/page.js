@@ -7,7 +7,7 @@ import { useEffect } from "react";
 export default function Home() {
   const router=useRouter()
   useEffect(()=>{
-    router.push('/dashboard/sign-in')
+    router.push('/dashboard/')
   })
   return (
     <div className="flex items-center flex-row justify-center ">
