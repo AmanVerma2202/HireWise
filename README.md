@@ -24,12 +24,12 @@ See `readme.md` for ways to get started.
 
 
 ## Photos
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(79).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(74).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(75).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(76).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(77).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(78).png)
+![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(79).png)
+![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(74).png)
+![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(75).png)
+![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(76).png)
+![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(77).png)
+![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(78).png)
 
 
 ## Tech Stack
