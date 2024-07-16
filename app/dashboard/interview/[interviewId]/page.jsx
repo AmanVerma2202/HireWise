@@ -31,17 +31,18 @@ const Interview = ({params}) => {
         <div className='flex flex-col my-5'>
           <div className='flex flex-col p-5  rounded-lg border gap-5'>
             <h2 className='text-lg'>
-              <strong>Job Role/Job Position:&nbsp;</strong>
-              {interviewData && interviewData.jobPosition}
-            </h2>
-            <h2 className='text-lg'>
-              <strong>Job Description/Tech Stack:&nbsp;</strong>
-              {interviewData && interviewData.jobDesc}
-            </h2>
-            <h2 className='text-lg'>
-              <strong>Years of Experience:&nbsp;</strong>
-              {interviewData && interviewData.jobExperience}
-            </h2>
+            <strong>Job Role/Job Position:&nbsp;</strong>
+            {interviewData && interviewData.jobPosition.replace(/'/g, '&apos;')}
+          </h2>
+          <h2 className='text-lg'>
+            <strong>Job Description/Tech Stack:&nbsp;</strong>
+            {interviewData && interviewData.jobDesc.replace(/'/g, '&apos;')}
+          </h2>
+          <h2 className='text-lg'>
+            <strong>Years of Experience:&nbsp;</strong>
+            {interviewData && interviewData.jobExperience.replace(/'/g, '&apos;')}
+          </h2>
+
           </div>
           <div className='p-5 border rounded-lg border-red-500 bg-red-700'>
             <h2 className='flex gap-2 items-center text-yellow-400'><Lightbulb/><strong>Information</strong></h2>
